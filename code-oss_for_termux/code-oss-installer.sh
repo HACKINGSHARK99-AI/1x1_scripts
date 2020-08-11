@@ -95,7 +95,7 @@ function getinstaller() {
 function sequencer() {
     clear
     check_dependencies
-    figlet Code-oss1X1
+    figlet Code-ossHACKING SHARK
     printf "\n Do you want install code-os "
     ask
     printf "\n do yo opened xserver xsdl app"
